@@ -1,0 +1,11 @@
+C:\Users\Андрей\source\repos\5lab#\5lab#\obj\Debug\5lab#.csproj.AssemblyReference.cache
+C:\Users\Андрей\source\repos\5lab#\5lab#\obj\Debug\5lab#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\source\repos\5lab#\5lab#\obj\Debug\_5lab_.Properties.Resources.resources
+C:\Users\Андрей\source\repos\5lab#\5lab#\obj\Debug\5lab#.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\5lab#\5lab#\obj\Debug\5lab#.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\5lab#\5lab#\bin\Debug\5lab#.exe.config
+C:\Users\Андрей\source\repos\5lab#\5lab#\bin\Debug\5lab#.exe
+C:\Users\Андрей\source\repos\5lab#\5lab#\bin\Debug\5lab#.pdb
+C:\Users\Андрей\source\repos\5lab#\5lab#\obj\Debug\5lab#.exe
+C:\Users\Андрей\source\repos\5lab#\5lab#\obj\Debug\5lab#.pdb
+C:\Users\Андрей\source\repos\5lab#\5lab#\obj\Debug\_5lab_.mainForm.resources
